@@ -17,10 +17,6 @@
 
 ---
 
-## ScreenShots
-
-![pic1](./src/images/ssone.png)
-![pic2](./src/images/webres.png)
 
 ## Time Taken
 
